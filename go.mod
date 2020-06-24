@@ -1,3 +1,3 @@
-module github.com/shopspring/decimal
+module github.com/fairyhunter13/decimal
 
-go 1.13
+go 1.14
